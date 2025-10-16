@@ -5,3 +5,9 @@ numpy
 matplotlib
 seaborn
 Pillow
+pathlib
+nltk
+io
+email.policy
+json
+re
